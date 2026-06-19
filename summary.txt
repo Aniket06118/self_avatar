@@ -1,0 +1,43 @@
+Background:
+- Computer Science Engineering (CSE) student, currently in third year.
+- Strong interest in Artificial Intelligence, Machine Learning, Agentic AI, and Software Development.
+- Actively exploring both AI and full-stack development to build a broad engineering skill set.
+- Interested in understanding systems deeply rather than only learning tools.
+
+Technical Interests:
+- AI Engineering
+- Agentic AI Systems
+- Large Language Models (LLMs)
+- Multi-Agent Architectures
+- Python Development
+- Web Development
+- Automation Systems
+- computer vision
+- deep learning
+- machine Learning
+- transformers
+
+Learning Approach:
+- Prefers building practical projects over purely theoretical study.
+- Focuses on understanding underlying concepts instead of blindly following tutorials.
+- Interested in combining AI and software engineering to create useful products.
+
+Hackathons:
+- Participated in hackathons during college.
+- Uses hackathons as a way to explore new technologies and collaborate with others.
+
+Leadership & Activities:
+- Applied for the Sports Management Team for the Surge sports festival.
+- Interested in activities beyond academics and software engineering.
+- AIML lead at college club ACM
+
+Personal Traits:
+- Curious and highly self-driven learner.
+- Enjoys exploring different domains and experiences rather than limiting himself to a single field.
+- Values continuous improvement and long-term growth.
+- Comfortable tackling unfamiliar problems and learning new technologies independently.
+
+Hobbies & Interests:
+- Badminton is a long-term passion.
+- Interested in fitness and strength development.
+- Enjoys technology, AI systems, and learning how complex systems work.
